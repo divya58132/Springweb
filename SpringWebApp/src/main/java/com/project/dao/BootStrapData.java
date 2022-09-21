@@ -33,7 +33,7 @@ public class BootStrapData implements CommandLineRunner{
 	public void run(String... args) throws Exception {
 		// TODO Auto-generated method stub
 		Publisher publisher = new Publisher();
-	    publisher.setName("SFG Publishing");
+	    publisher.setName("Ajanta Publishing");
 	    publisher.setAddressLine1("Ansal");
 	    publisher.setCity("Gurgaon");
 	    publisher.setState("Haryana");
